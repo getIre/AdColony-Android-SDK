@@ -1,4 +1,10 @@
 # Change Log
+## 4.7.0 (2022/03/10)
+* Changed configure interface, deprecated old one
+* Updated OM SDK to v1.3.30
+* Fixed NullPointerException: Attempt to invoke virtual method
+* Fixed ClassNotFoundException: Didn't find class 'android.webkit.RenderProcessGoneDetail'
+
 ## 4.6.5 (2021/10/21)
 * AD_ID permission support for Android 12.
 * Various internal, edge case bugfixes that have not been publicly reported by publishers.
