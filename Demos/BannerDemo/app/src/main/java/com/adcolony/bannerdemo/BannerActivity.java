@@ -55,7 +55,7 @@ public class BannerActivity extends Activity {
 
         // Configure AdColony in your launching Activity's onCreate() method so that cached ads can
         // be available as soon as possible.
-        AdColony.configure(this, appOptions, APP_ID, ZONE_ID);
+        AdColony.configure(this, appOptions, APP_ID);
 
         listener = new AdColonyAdViewListener() {
             @Override

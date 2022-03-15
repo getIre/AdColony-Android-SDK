@@ -39,7 +39,7 @@ public class InterstitialActivity extends Activity {
 
         // Configure AdColony in your launching Activity's onCreate() method so that cached ads can
         // be available as soon as possible.
-        AdColony.configure(this, appOptions, APP_ID, ZONE_ID);
+        AdColony.configure(this, appOptions, APP_ID);
 
         // Ad specific options to be sent with request
         adOptions = new AdColonyAdOptions();
