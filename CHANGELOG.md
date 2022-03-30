@@ -1,4 +1,8 @@
 # Change Log
+## 4.7.1 (2022/03/30)
+* Google Designed For Families (DFF) complaince changes
+* Fix for missing click callback in banner integrations
+
 ## 4.7.0 (2022/03/10)
 * Changed configure interface, deprecated old one
 * Updated OM SDK to v1.3.30
