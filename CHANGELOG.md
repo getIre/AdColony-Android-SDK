@@ -1,4 +1,8 @@
 # Change Log
+## 4.8.0 (2022/06/07)
+* Added banner onShow callback
+* Fixed ConcurrentModificationException
+
 ## 4.7.1 (2022/03/30)
 * Google Designed For Families (DFF) complaince changes
 * Fix for missing click callback in banner integrations
